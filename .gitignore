@@ -1,0 +1,4 @@
+BenchmarkDatasets/processed_jsons
+BenchmarkDatasets/processed_timeseries_csvs
+DetectionResults
+properties
